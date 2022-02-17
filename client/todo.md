@@ -32,3 +32,8 @@
 
 ## Misc
 - remove shader logging
+- microsoft login
+- store alts / manage
+
+## Click GUI
+- auto config buttons
