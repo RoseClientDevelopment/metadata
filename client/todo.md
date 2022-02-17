@@ -39,6 +39,7 @@
 - microsoft login
 - store alts / manage
 - macro api
+- config version checking
 
 ## Click GUI
 - auto config buttons
