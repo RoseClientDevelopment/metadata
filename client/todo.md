@@ -15,6 +15,7 @@
 - freecam
 - xray
 - tracers
+- projectiles
 
 ## Player
 - Autoarmor
