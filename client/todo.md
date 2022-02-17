@@ -17,6 +17,7 @@
 - tracers
 - projectiles
 - more arraylist themes
+- option to change fonts for existing visuals
 
 ## Player
 - Autoarmor
