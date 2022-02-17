@@ -21,6 +21,7 @@
 - Autoarmor
 - Inventorymanager  
 - improve cheststealer (it breaks some times)
+- auto gg (+ rose advertisement setting)
 
 ## HUD
 - keystrokes
