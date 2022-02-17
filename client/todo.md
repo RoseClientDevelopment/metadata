@@ -5,6 +5,7 @@
 - triggerbot
 - refill
 - misplace
+- hitboxes
 
 ## Visuals
 - Nametags
