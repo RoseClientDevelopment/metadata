@@ -16,6 +16,7 @@
 - xray
 - tracers
 - projectiles
+- more arraylist themes
 
 ## Player
 - Autoarmor
