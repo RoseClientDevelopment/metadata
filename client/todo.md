@@ -26,6 +26,8 @@
 - cosmic spoofer
 - duel stats
 - bw stats
+- session stats
+- targethud
 
 ## Misc
 - remove shader logging
