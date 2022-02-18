@@ -1,7 +1,6 @@
 ## Combat
 - auto pot/soup/head/gap
 - Wtap
-- allow fov to go up to 10
 - triggerbot
 - refill
 - misplace
